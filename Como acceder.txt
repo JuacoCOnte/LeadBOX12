@@ -1,0 +1,2 @@
+Uso una extencion en VScode que se llama live server, con esa extencion pulsando un boton que dice go Live logro acceder al archivo via localhost.
+Si no abrir el archivo index.html de la carpeta.
